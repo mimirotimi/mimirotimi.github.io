@@ -1,4 +1,4 @@
-# Rotimi Adetunji 
+## Rotimi Adetunji 
 ## ECE4960 Fast Robotics - Spring 2023
 
 <div>
