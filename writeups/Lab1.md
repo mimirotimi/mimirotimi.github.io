@@ -30,7 +30,9 @@ A video showing the changes in frequency from the onboard microphone on the Arte
 
 ## Task 6
 A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of 443 Hz. A code snippet is shown below the video detailing the board's behaviour. 
-https://youtube.com/shorts/D6rpqEXenkw?feature=share
+
+<iframe width="363" height="646" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
