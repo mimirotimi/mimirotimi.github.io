@@ -1,4 +1,4 @@
-#Lab 1
+# Lab 1
 
 The purpose of this lab serves to become familiar with the Artemis board and Arduino IDE. The lab requires the following hardware:
 - 1 x SparkFun RedBoard Artemis Nano
@@ -12,16 +12,20 @@ The lab consists of the following 6 tasks:
 5. Testing the microphone.
 6. Configuring the Artemis to turn on an LED when a note of a specific frequency is played.
 
-##Task 2
+## Task 2
 A video showing the blinking LED on the Artemis board is shown below. The basic example file "Example: Blink it Up" was used. The baud rate set was 11250.
 
-##Task 3
+## Task 3
 An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 
-##Task 4
+## Task 4
+A video showing changes in temperature from the onboard temperature sensor on the Artemis is shown below. The Artemis example file "Example4_analogRead" was used.
 
-##Task 5
+## Task 5
+A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulated) example file "Example1_MicrophoneOutput" was used. 
 
-##Task 6
+## Task 6
+A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of 443 Hz. A code snippet is shown below the video detailing the board's behaviour. 
+
 
 
