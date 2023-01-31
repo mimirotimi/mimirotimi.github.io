@@ -25,11 +25,11 @@ A video showing the blinking LED on the Artemis board is shown below. The basic 
 </center>
 
 ## Task 3
+    
+An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 <center>
     <img src="/serialmonitor.jpg">
 </center>
-    
-An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 
 ## Task 4
 A video showing changes in temperature from the onboard temperature sensor on the Artemis is shown below. The Artemis example file "Example4_analogRead" was used.
