@@ -8,4 +8,4 @@
 ### My name is Rotimi Adetunji and I am an MEng BME student. I did my undergrad at the University of Pittsburgh in Electrical and Computer Engineering. I have an interest in robotic systems, ranging from medical robots to autonomous vehicles. I am hoping to work in either of those industries after graduation although I am leaning more towards AVs.
 ### This website serves to document labs and other assignments for ECE5160 [sp2023]
 
-## Lab 1 [blah blah](/Lab1)
+## [Lab 1](/Lab1)
