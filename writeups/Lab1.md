@@ -29,6 +29,8 @@ A video showing changes in temperature from the onboard temperature sensor on th
 ## Task 5
 A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulated) example file "Example1_MicrophoneOutput" was used. 
 
+<iframe width="646" height="363" src="https://www.youtube.com/embed/6g1Y0mu7m4E" title="Mic Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Task 6
 A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of 443 Hz. A code snippet is shown below the video detailing the board's behaviour. 
 
