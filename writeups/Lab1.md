@@ -16,6 +16,8 @@ The lab consists of the following 6 tasks:
 5. Testing the microphone.
 6. Configuring the Artemis to turn on an LED when a note of a specific frequency is played.
 
+### *I've accidentally recorded all my videos vertically and in turn they can only be uploaded to YouTube as "shorts". This will be fixed byh the next lab. I apologise for any inconvenience.*
+
 ## Task 2
 A video showing the blinking LED on the Artemis board is shown below. The basic example file "Example: Blink it Up" was used. The baud rate set was 11250.
 
@@ -31,7 +33,7 @@ A video showing the changes in frequency from the onboard microphone on the Arte
 ## Task 6
 A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of 443 Hz. A code snippet is shown below the video detailing the board's behaviour. 
 
-<iframe width="646" height="363" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="363" height="646" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
