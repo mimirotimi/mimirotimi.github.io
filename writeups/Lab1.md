@@ -26,6 +26,8 @@ An image showing the open serial monitor is shown below. The Artemis example fil
 ## Task 4
 A video showing changes in temperature from the onboard temperature sensor on the Artemis is shown below. The Artemis example file "Example4_analogRead" was used.
 
+<iframe width="646" height="343" src="https://www.youtube.com/embed/gsrv1sqSRgI" title="Temperature Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Task 5
 A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulated) example file "Example1_MicrophoneOutput" was used. 
 
