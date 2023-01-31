@@ -20,6 +20,10 @@ The lab consists of the following 6 tasks:
 ## Task 2
 A video showing the blinking LED on the Artemis board is shown below. The basic example file "Example: Blink it Up" was used. The baud rate set was 11250.
 
+<center>
+    <iframe width="646" height="343" src="https://www.youtube.com/embed/SwG4BYegMLg" title="Blink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
 ## Task 3
 An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 
@@ -34,7 +38,7 @@ A video showing the changes in frequency from the onboard microphone on the Arte
 <iframe width="646" height="363" src="https://www.youtube.com/embed/6g1Y0mu7m4E" title="Mic Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Task 6
-A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of 443 Hz. A code snippet is shown below the video detailing the board's behaviour. 
+A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of ~440 Hz. A code snippet is shown below the video detailing the board's behaviour. 
 
 <iframe width="646" height="343" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
