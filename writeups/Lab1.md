@@ -52,3 +52,6 @@ A video showing the LED response to the 'A' note being played is shown below. Th
     <iframe width="646" height="343" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+## Conclusion
+Lab 1 was straight forward, and I'm looking forward to Lab 2.
+
