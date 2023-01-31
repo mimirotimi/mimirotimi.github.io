@@ -4,6 +4,10 @@ The purpose of this lab serves to become familiar with the Artemis board and Ard
 - 1 x SparkFun RedBoard Artemis Nano
 - 1 x USB A-to-C cable
 
+<div>
+    <p style="float: right; padding-left: 10px;"><img src="hackingmainframe.jpeg" width="400" ></p>
+</div>
+
 The lab consists of the following 6 tasks:
 1. Setting up the Artemis board with the computer.
 2. Blinking the LED on the Artemis board.
