@@ -1,7 +1,7 @@
 # Lab 1
 
 <div>
-    <p style="float: right; padding-left: 10px;"><img src="hackingmainframe.jpeg" width="600" ></p>
+    <p style="float: right; padding-left: 10px;"><img src="hackingmainframe.jpeg" width="400" ></p>
 </div>
 
 The purpose of this lab serves to become familiar with the Artemis board and Arduino IDE. The lab requires the following hardware:
