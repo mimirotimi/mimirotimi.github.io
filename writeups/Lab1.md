@@ -28,7 +28,7 @@ A video showing the blinking LED on the Artemis board is shown below. The basic 
     
 An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 <center>
-    <img src="/serialmonitor.jpg">
+    <img src="/serialmonitor.jpg" width="646">
 </center>
 
 ## Task 4
@@ -39,7 +39,7 @@ A video showing changes in temperature from the onboard temperature sensor on th
 </center>
 
 ## Task 5
-A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulated) example file "Example1_MicrophoneOutput" was used. 
+A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulation) example file "Example1_MicrophoneOutput" was used. 
 
 <center>
     <iframe width="646" height="363" src="https://www.youtube.com/embed/6g1Y0mu7m4E" title="Mic Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
