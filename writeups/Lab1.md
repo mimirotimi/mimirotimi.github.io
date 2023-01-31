@@ -25,23 +25,30 @@ A video showing the blinking LED on the Artemis board is shown below. The basic 
 </center>
 
 ## Task 3
+<center>
+    <img src="/serialmonitor.jpg">
+</center>
+    
 An image showing the open serial monitor is shown below. The Artemis example file "Example2_Serial" was used. 
 
 ## Task 4
 A video showing changes in temperature from the onboard temperature sensor on the Artemis is shown below. The Artemis example file "Example4_analogRead" was used.
 
-<iframe width="646" height="343" src="https://www.youtube.com/embed/gsrv1sqSRgI" title="Temperature Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+    <iframe width="646" height="343" src="https://www.youtube.com/embed/gsrv1sqSRgI" title="Temperature Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 ## Task 5
 A video showing the changes in frequency from the onboard microphone on the Artemis board is shown below. The PDM (Pulse Density Modulated) example file "Example1_MicrophoneOutput" was used. 
 
-<iframe width="646" height="363" src="https://www.youtube.com/embed/6g1Y0mu7m4E" title="Mic Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+    <iframe width="646" height="363" src="https://www.youtube.com/embed/6g1Y0mu7m4E" title="Mic Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 ## Task 6
 A video showing the LED response to the 'A' note being played is shown below. The 'A' note has a frequency of ~440 Hz. A code snippet is shown below the video detailing the board's behaviour. 
 
-<iframe width="646" height="343" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
+<center>
+    <iframe width="646" height="343" src="https://www.youtube.com/embed/D6rpqEXenkw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
