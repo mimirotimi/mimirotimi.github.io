@@ -66,19 +66,33 @@ This task requires us to use a notification handler to transmit the temperature 
     <figcaption>Image 5 - Python Code</figcaption>
     <img src="/images/Lab2/Task5.png" width="350">
     <figcaption>Image 6 - Python Code</figcaption>
-    <img src ="/images/Lab2/Image7.png">
+    <img src ="/images/Lab2/Image7.png" width="350">
         <figcaption>Image 7 - Arduino Code</figcaption>
     </figure>
     </center>
 </div>
 
 #### Task 5
-This tasks requires us to use a notification handler to transmit 50 temperature readings over 100ms intervals. Images 9 and 10 show the Arduino code written, respectively,
+This tasks requires us to use a notification handler to transmit 50 temperature readings over 100ms intervals. Images 8 and 9 show the Arduino and Python code written, respectively.
+
+<div>
+<center>
+    <figure>
+    <img src="/images/Lab2/Image8.png" width="350">
+    <figcaption>Image 8 - Arduino Code</figcaption>
+    <img src="/images/Lab2/Image9.png" width="350">
+    <figcaption>Image 9 - Python Code</figcaption>
+    </figure>
+    </center>
+</div>
 
 #### Task 6
 Only around 150 bytes of data can be transmitted from the robot via Bluetooth. Additionally, the Artemis Nano has about 380kB of RAM. This means that a lesser amount can be stored on board, approximately 200kB. The form of "5 seconds of 16-bit values taken at 150Hz" corresponds to an amount of data that exceeds the onboard capabilities. The limitations would result in either non-negligible latency or chunks of data not being transmitted correctly. 
 
- #### Task 7 (5000-level)
- #### Task 8 (5000-level)
+#### Task 7 (5000-level)
+ 
+#### Task 8 (5000-level)
+When data is transmitted at a high rate the results show relatively high results. When first transmitting temperatures rapidly, I chose to transmit the data every ~100 millisecoonds and I did notice one missed package.
+ 
  
 
