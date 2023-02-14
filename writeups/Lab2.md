@@ -15,7 +15,7 @@ This lab serves to establish communication between a computer and the Artemis th
 5. Started the Jupyter Lab server.
 6. Installed ArduinoBLE from the library manager. After burning the code on the Artemis, it published its MAC address. The image below shows the result.
 <div>
-    <img src="/images/Lab2/mac_add.png" width="450" class = "center" >
+    <center><img src="/images/Lab2/mac_add.png" width="450"></center>
 </div>
 
 
