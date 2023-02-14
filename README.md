@@ -9,3 +9,5 @@
 ### This website serves to document labs and other assignments for ECE5160 [sp2023]
 
 ## [Lab 1](writeups/Lab1)
+## [Lab 2](writeups/Lab2)
+## [Lab 3](writeups/Lab3)
