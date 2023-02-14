@@ -13,7 +13,7 @@ This lab serves to establish communication between a computer and the Artemis th
 3. Install the following packages: 'numpy' 'pyyaml' 'colorama' 'nest_asyncio' 'bleak' 'jupyterlab'.
 4. Downloaded the codebase found [here](https://cornell.box.com/s/aivj9ad3uv74lmpvxz8s64aamgz6azt1).
 5. Started the Jupyter Lab server.
-6. Installed ArduinoBLE from the library manager. After burning the code on the Artemis, it published its MAC address.
+6. Installed ArduinoBLE from the library manager. After burning the code on the Artemis, it published its MAC address. The image below shows the result.
 <div>
     <p style="float: center;"><img src="/images/Lab2/mac_add.png" width="450" ></p>
 </div>
