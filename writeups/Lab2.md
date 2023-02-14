@@ -27,12 +27,10 @@ We were provided with demonstration code to verify connection and performance.
 Task 1 requires the computer to send a string to the Artemis and for an augmented message to be returned to the computer. Image 1 below shows the output on the computer, inclusive of the Python code. Image 2 shows the code modified in the Arduino IDE. In order to complete this task, a new command type had to be declared in the Python and Arduino files. 
 <div>
 
-    <figure>
     <img src="/images/Lab2/Image1.png" width="350">
     <figcaption>Image 1 - Python Code</figcaption>
     <img src="/images/Lab2/Image2.png" width="350">
     <figcaption>Image 2 - Arduino Code</figcaption>
-    </figure>
 
 </div>
 
@@ -41,25 +39,36 @@ This task requires the time to be retrieved from the Artemis in milliseconds and
 <div>
 
     <figure>
-    <img src="/images/Lab2/Task4.png" width="450">
-    <figcaption>Image 3 - Python Code</figcaption>
-    </figure>
-
+        <center>
+        <img src="/images/Lab2/Task4.png" width="450">
+        <figcaption>Image 3 - Python Code</figcaption>
+        </figure>
+        </center>
 </div>
 
 #### Task 3
 Task 3 instructs to set up a notification handler to extract the time from the transmitted float value. Because the time on the Artemis was recorded as a float, I decided to transmit it as such. Image 4 shows the result in Jupyter. There was no need to modify code on the Arduino IDE.
 <div>
-
     <figure>
+    <center>
     <img src="/images/Lab2/Image4.png" width="450">
     <figcaption>Image 4 - Python Code</figcaption>
+    </center>
     </figure>
-
 </div>
 
 #### Task 4
 This task requires us to use a notification handler to transmit the temperature of the Arduino in regular 5 second intervals. A challenge that I had with this task was transmitting two different types of data (string & float). Image 5 shows the results from the first challenges I faced, with not all of the data being transmitted. Images 6 and 7 show the Python and Arduino code written, respectively. 
+<div>
+
+    <figure>
+    <img src="/images/Lab2/Task5_error.png" width="350">
+    <figcaption>Image 5 - Python Code</figcaption>
+    <img src="/images/Lab2/Task5.png" width="350">
+    <figcaption>Image 6 - Python Code</figcaption>
+    </figure>
+
+</div>
 
 #### Task 5
 This tasks requires us to use a notification handler to transmit 50 temperature readings over 100ms intervals. Images 9 and 10 show the Arduino code written, respectively,
