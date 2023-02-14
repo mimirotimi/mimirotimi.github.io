@@ -15,7 +15,7 @@ This lab serves to establish communication between a computer and the Artemis th
 5. Started the Jupyter Lab server.
 6. Installed ArduinoBLE from the library manager. After burning the code on the Artemis, it published its MAC address. The image below shows the result.
 <div>
-    <p style="float: center;"><img src="/images/Lab2/mac_add.png" width="450" ></p>
+    <img src="/images/Lab2/mac_add.png" width="450" class = "center" >
 </div>
 
 
@@ -34,7 +34,10 @@ This task requires the time to be retrieved from the Artemis in milliseconds and
 
 #### Task 3
 Task 3 instructs to set up a notification handler to extract the time from the transmitted string value. Image 5 shows the result in Jupyter. There was no need to modify code on the Arduino IDE.
- #### Task 4
+
+
+#### Task 4
+This task requires us to use a notification handler to transmit the temperature of the Arduino in regular 5 second intervals. A challenge that I had with this task was transmitting two different types of data (string & float)
  #### Task 5
  #### Task 6
  #### Task 7 (5000-level)
