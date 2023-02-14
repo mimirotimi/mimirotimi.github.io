@@ -66,6 +66,8 @@ This task requires us to use a notification handler to transmit the temperature 
     <figcaption>Image 5 - Python Code</figcaption>
     <img src="/images/Lab2/Task5.png" width="350">
     <figcaption>Image 6 - Python Code</figcaption>
+    <img src ="/images/Lab2/Image7.png">
+        <figcaption>Image 7 - Arduino Code</figcaption>
     </figure>
 
 </div>
