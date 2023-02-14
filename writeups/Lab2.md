@@ -27,7 +27,7 @@ We were provided with demonstration code to verify connection and performance.
 Task 1 requires the computer to send a string to the Artemis and for an augmented message to be returned to the computer. Image 1 below shows the output on the computer, inclusive of the Python code. Image 2 shows the code modified in the Arduino IDE. In order to complete this task, a new command type had to be declared in the Python and Arduino files. 
 <div>
     <figure>
-    <center><img src="images/Lab2/Image1.png"></center>
+    <center><img src="images/Lab2/Image1.png "></center> 
     <figcaption>Image 1 - Python Output</figcaption>
     </figure>
 </div>
