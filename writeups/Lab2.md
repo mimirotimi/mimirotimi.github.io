@@ -1,6 +1,9 @@
 # Lab 2
 
-This lab serves to establish communication between a computer and the Artemis through Bluetooth. For the Python portion, a Jupyter lab is used; and the Artemis is programmed through the Arduino IDE. 
+<div>
+    <p style="float: right; padding-left: 10px;"><img src="/images/Lab2/bluetoothmeme.jpeg" width="400" ></p>
+</div>
+This lab serves to establish communication between a computer and the Artemis through Bluetooth. For the Python portion a Jupyter lab is used, and the Artemis is programmed through the Arduino IDE. 
 
 ### Prelab
 
