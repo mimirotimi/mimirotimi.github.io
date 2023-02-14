@@ -26,24 +26,24 @@ We were provided with demonstration code to verify connection and performance.
 #### Task 1
 Task 1 requires the computer to send a string to the Artemis and for an augmented message to be returned to the computer. Image 1 below shows the output on the computer, inclusive of the Python code. Image 2 shows the code modified in the Arduino IDE. In order to complete this task, a new command type had to be declared in the Python and Arduino files. 
 <div>
-
+ <center>
     <img src="/images/Lab2/Image1.png" width="350">
     <figcaption>Image 1 - Python Code</figcaption>
     <img src="/images/Lab2/Image2.png" width="350">
     <figcaption>Image 2 - Arduino Code</figcaption>
-
+    </center>
 </div>
 
 #### Task 2
 This task requires the time to be retrieved from the Artemis in milliseconds and be returned in a string format. Image 3 below shows the resulting code in the Python code.
 <div>
-
     <figure>
         <center>
         <img src="/images/Lab2/Task4.png" width="450">
         <figcaption>Image 3 - Python Code</figcaption>
-        </figure>
         </center>
+    </figure>
+
 </div>
 
 #### Task 3
@@ -60,7 +60,7 @@ Task 3 instructs to set up a notification handler to extract the time from the t
 #### Task 4
 This task requires us to use a notification handler to transmit the temperature of the Arduino in regular 5 second intervals. A challenge that I had with this task was transmitting two different types of data (string & float). Image 5 shows the results from the first challenges I faced, with not all of the data being transmitted. Images 6 and 7 show the Python and Arduino code written, respectively. 
 <div>
-
+<center>
     <figure>
     <img src="/images/Lab2/Task5_error.png" width="350">
     <figcaption>Image 5 - Python Code</figcaption>
@@ -69,7 +69,7 @@ This task requires us to use a notification handler to transmit the temperature 
     <img src ="/images/Lab2/Image7.png">
         <figcaption>Image 7 - Arduino Code</figcaption>
     </figure>
-
+    </center>
 </div>
 
 #### Task 5
