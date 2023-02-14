@@ -27,8 +27,14 @@ We were provided with demonstration code to verify connection and performance.
 Task 1 requires the computer to send a string to the Artemis and for an augmented message to be returned to the computer. Image 1 below shows the output on the computer, inclusive of the Python code. Image 2 shows the code modified in the Arduino IDE. In order to complete this task, a new command type had to be declared in the Python and Arduino files. 
 <div>
     <figure>
-    <center><img src="images/Lab2/Screenshot 2023-02-13 at 10.46.07 PM.png"></center>
-    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+    <center><img src="images/Lab2/Image1"></center>
+    <figcaption>Image 1 - Python Output</figcaption>
+    </figure>
+</div>
+<div>
+    <figure>
+    <center><img src="images/Lab2/Image2"></center>
+    <figcaption>Image 2 - Arduino Code</figcaption>
     </figure>
 </div>
 
@@ -45,8 +51,8 @@ This task requires us to use a notification handler to transmit the temperature 
 This tasks requires us to use a notification handler to transmit 50 temperature readings over 100ms intervals. Images 9 and 10 show the Arduino code written, respectively,
 
 #### Task 6
+Only around 150 bytes of data can be transmitted from the robot via Bluetooth. Additionally, the Artemis Nano has about 380kB of RAM. This means that a lesser amount can be stored on board, approximately 200kB. The form of "5 seconds of 16-bit values taken at 150Hz" corresponds to an amount of data that exceeds the onboard capabilities. The limitations would result in either non-negligible latency or chunks of data not being transmitted correctly. 
 
- 
  #### Task 7 (5000-level)
  #### Task 8 (5000-level)
  
