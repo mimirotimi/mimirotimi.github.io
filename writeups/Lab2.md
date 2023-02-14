@@ -17,8 +17,6 @@ This lab serves to establish communication between a computer and the Artemis th
 <div>
     <center><img src="/images/Lab2/mac_add.png" width="450"></center>
 </div>
-
-
 #### Codebase
 The Artemis communicates with the computer through a Bluetooth protocol. The MAC address corresponding to the Artemis is queried when trying to connect. Universally Unique Identifiers (UUIDs) helps differentiate the type of data to be sent between the Artemis and computer. UUIDs can be generated using python and must match UUIDs specidied in the Arduino files.
 We were provided with demonstration code to verify connection and performance.
@@ -41,9 +39,14 @@ This task requires the time to be retrieved from the Artemis in milliseconds and
 Task 3 instructs to set up a notification handler to extract the time from the transmitted string value. Image 5 shows the result in Jupyter. There was no need to modify code on the Arduino IDE.
 
 #### Task 4
-This task requires us to use a notification handler to transmit the temperature of the Arduino in regular 5 second intervals. A challenge that I had with this task was transmitting two different types of data (string & float)
- #### Task 5
- #### Task 6
+This task requires us to use a notification handler to transmit the temperature of the Arduino in regular 5 second intervals. A challenge that I had with this task was transmitting two different types of data (string & float). Image 6 shows the results from the first challenges I faced, with not all of the data being transmitted. Images 7 and 8 show the Python and Arduino code written, respectively. 
+
+#### Task 5
+This tasks requires us to use a notification handler to transmit 50 temperature readings over 100ms intervals. Images 9 and 10 show the Arduino code written, respectively,
+
+#### Task 6
+
+ 
  #### Task 7 (5000-level)
  #### Task 8 (5000-level)
  
