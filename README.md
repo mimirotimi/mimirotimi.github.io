@@ -11,3 +11,4 @@
 ## [Lab 1](writeups/Lab1)
 ## [Lab 2](writeups/Lab2)
 ## [Lab 3](writeups/Lab3)
+## [Lab 4](writeups/Lab4)
